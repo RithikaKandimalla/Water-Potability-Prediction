@@ -1,1 +1,6 @@
-# Water-Potability-Prediction
+# Water Potability Prediction
+ 
+
+Our project focused on developing a machine learning model to predict the potability of water based on various water quality attributes. Using a dataset containing features such as pH, Hardness, Solids, Chloramines, and others, we employed data preprocessing, feature engineering, and model training techniques to achieve accurate predictions. We leveraged Python and libraries like Pandas, Scikit-learn, and Matplotlib for data handling, visualization, and model implementation. The core skills demonstrated included data cleaning, handling missing values, balancing the dataset using upsampling, and model evaluation using metrics like accuracy, precision, recall, and F1-score.
+
+The primary achievement of this project was the development of a reliable predictive model with an accuracy of 86.50%. The Extra Trees Classifier, after hyperparameter tuning, outperformed other models, indicating its effectiveness for this task. We identified key features influencing water potability, such as pH, Hardness, and Sulfate. This model can significantly impact public health by assisting water quality authorities in ensuring the delivery of safe drinking water. It provides a robust tool for predicting water safety, helping to prevent waterborne diseases and enhance community health and well-being.  
